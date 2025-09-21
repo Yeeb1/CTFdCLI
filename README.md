@@ -396,7 +396,7 @@ flag{rsa_cracked_successfully}
 2. **Sync Early**: Run `sync` at the start of CTF for offline access
 3. **Multiple Profiles**: Set up profiles for different CTFs you participate in
 4. **Bulk Operations**: Use bulk submission for rapid flag submission
-5. **Dry Run**: Use `--dry-run` to test submissions before committing
+5. **Connection Details**: Use `challenges connection` to extract all Connection Endpoints like Websites or `nc` services
 
 
 ### Development Setup
