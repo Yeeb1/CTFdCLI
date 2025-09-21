@@ -266,7 +266,7 @@ ctfdcli challenges --category crypto
 ctfdcli challenges --unsolved
 
 # Get challenge details
-ctfdcli challenge-info 15
+ctfdcli challenge show 15
 ```
 
 ### Sync Operations
@@ -406,17 +406,6 @@ flag{rsa_cracked_successfully}
 git clone https://github.com/Yeeb1/CTFdCLI.git
 cd ctfdcli
 uv sync
-
-# Run tests
-pytest
-
-# Format code
-black .
-isort .
-
-# Lint
-ruff check .
-mypy .
 ```
 
 ---
