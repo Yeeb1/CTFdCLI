@@ -12,6 +12,7 @@ A command-line interface for interacting with [CTFd](https://ctfd.io) (Capture T
 - **🏷️ Multi-Profile Support**: Manage multiple CTF competitions simultaneously
 - **📊 Progress Tracking**: Track solved challenges and submission attempts
 - **🛠️ Offline-First**: Work with downloaded challenges without constant connectivity
+- **🔍 Connection Details Extraction**: Automatically detect and extract connection information (e.g., nc commands, hostnames, ports, and websites)
 
 ## 📦 Installation
 
