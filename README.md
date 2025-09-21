@@ -1,6 +1,6 @@
 # 🚩 CTFd CLI
 
-A command-line interface for interacting with [CTFd](https://ctfd.io) (Capture The Flag) platforms. Streamline your CTF workflow with **automatic challenge synchronization**, **organized file management**, and **seamless flag submission**.
+A command-line interface for interacting with [CTFd](https://ctfd.io) (Capture The Flag) platforms. Optimize your CTF workflow with **automatic challenge synchronization**, **organized file management**, and **seamless flag submission**.
 
 ![out](https://github.com/user-attachments/assets/1f8bc4f5-b50b-4a98-b7e0-ec1011f64e77)
 
