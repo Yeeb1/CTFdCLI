@@ -88,35 +88,9 @@ ctfdcli init --url https://demo.ctfd.io --token your_api_token
 # Download and organize all challenges
 ctfdcli sync
 ```
+![sync](https://github.com/user-attachments/assets/45eb4c57-a5e7-4339-80dd-463963991418)
 
-**Example Output:**
-```
-🔄 Syncing challenges from demo-ctfd (https://demo.ctfd.io)
 
-📊 Challenge Statistics
-┏━━━━━━━━━━━━━━━┳━━━━━━━┳━━━━━━━━━┳━━━━━━━━━━━━┓
-┃ Category      ┃ Total ┃ Solved  ┃ Available  ┃
-┡━━━━━━━━━━━━━━━╇━━━━━━━╇━━━━━━━━━╇━━━━━━━━━━━━┩
-│ Web           │    8  │   2     │      6     │
-│ Crypto        │    6  │   1     │      5     │
-│ Reversing     │    4  │   0     │      4     │
-│ Pwn           │    3  │   0     │      3     │
-│ Misc          │    2  │   1     │      1     │
-└───────────────┴───────┴─────────┴────────────┘
-
-📁 Syncing files...
-✅ crypto/rsa-basics (3 files downloaded)
-✅ crypto/aes-cipher (1 file downloaded)
-✅ web/sql-injection (2 files downloaded)
-✅ web/xss-challenge (1 file downloaded)
-✅ misc/steganography (4 files downloaded)
-✅ reversing/crackme (2 files downloaded)
-
-🎉 Sync complete! 23 challenges organized in ./challenges/
-   📁 6 categories created
-   📄 46 files downloaded
-   📋 23 README files generated
-```
 
 **Neat Directory Structure:**
 ```
@@ -189,6 +163,7 @@ Fetching challenges from https://scoreboard.ctrl-space.gg/...
 
 Showing 25 of 25 challenges | 1 solved (4.0%)
 ```
+![chall](https://github.com/user-attachments/assets/005a446b-69d4-450c-9147-fcb11e67f77d)
 
 ### 4. 🎯 **Auto Flag Submission** (Core Feature)
 
@@ -352,6 +327,7 @@ ctfdcli scoreboard --detailed
 # Show only top 10
 ctfdcli scoreboard --count 10
 ```
+![score](https://github.com/user-attachments/assets/643bf8c4-9be7-4ad0-bad9-35547ced3848)
 
 ## 🔧 Advanced Workflows
 
