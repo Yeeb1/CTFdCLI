@@ -382,7 +382,7 @@ nc challenge.ctf.com 1337
 - factorization
 ```
 
-### flag.txt (Your workspace)
+### flag.txt
 ```bash
 # Before solving
 echo "flag{your_solution_here}" > flag.txt
@@ -391,7 +391,7 @@ echo "flag{your_solution_here}" > flag.txt
 # SOLVED! ✅
 flag{rsa_cracked_successfully}
 ```
-## 💡 Pro Tips
+## 💡 Usefull Tips
 
 1. **Use `cwd submit`**: Always prefer directory-based submission for organized workflow
 2. **Sync Early**: Run `sync` at the start of CTF for offline access
@@ -408,9 +408,4 @@ cd ctfdcli
 uv sync
 ```
 
----
-
 ## 🎯 Happy Hacking!
-
-
-*Made with ❤️ for the CTF community*
