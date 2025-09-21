@@ -3,8 +3,7 @@
 A command-line interface for interacting with CTFd (Capture The Flag) platforms. Streamline your CTF workflow with **automatic challenge synchronization**, **organized file management**, and **seamless flag submission**.
 
 
-[![asciicast](https://asciinema.org/a/4fDUjyahuGnGsmdDoX0vPhSZz.svg)](https://asciinema.org/a/4fDUjyahuGnGsmdDoX0vPhSZz)
-
+<a href="https://asciinema.org/a/4fDUjyahuGnGsmdDoX0vPhSZz" target="_blank"><img src="https://asciinema.org/a/4fDUjyahuGnGsmdDoX0vPhSZz.svg" /></a>
 
 ## 🌟 Key Features
 
