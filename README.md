@@ -24,7 +24,7 @@ A command-line interface for interacting with CTFd (Capture The Flag) platforms.
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Clone and install CTFd CLI
-git clone https://github.com/yourusername/ctfdcli.git
+git clone https://github.com/Yeeb1/CTFdCLI.git
 cd ctfdcli
 uv sync
 
@@ -39,7 +39,7 @@ uv run ctfdcli --help
 pip install pipx
 
 # Install CTFd CLI globally
-pipx install git+https://github.com/yourusername/ctfdcli.git
+pipx install git+https://github.com/Yeeb1/CTFdCLI.git
 
 # Run from anywhere
 ctfdcli --help
@@ -49,7 +49,7 @@ ctfdcli --help
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ctfdcli.git
+git clone https://github.com/Yeeb1/CTFdCLI.git
 cd ctfdcli
 
 # Install in development mode
@@ -385,7 +385,7 @@ flag{rsa_cracked_successfully}
 ### Development Setup
 ```bash
 # Clone and setup development environment
-git clone https://github.com/yourusername/ctfdcli.git
+git clone https://github.com/Yeeb1/CTFdCLI.git
 cd ctfdcli
 uv sync
 
